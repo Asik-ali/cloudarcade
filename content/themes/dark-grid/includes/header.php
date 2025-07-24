@@ -2,6 +2,7 @@
 <html <?php the_html_attrs() ?>>
 	<head>
 		<meta charset="utf-8">
+		<meta name="google-adsense-account" content="ca-pub-3121432182108183">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 		<title><?php echo get_page_title() ?></title>
 		<?php the_canonical_link() ?>
